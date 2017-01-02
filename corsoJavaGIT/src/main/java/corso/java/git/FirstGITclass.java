@@ -5,4 +5,7 @@ public class FirstGITclass {
 	public void firstMethod() {
 		
 	}
+	public void secondMethod() {
+		
+	}
 }
