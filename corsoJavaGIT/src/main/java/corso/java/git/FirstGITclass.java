@@ -9,4 +9,10 @@ public class FirstGITclass {
 		System.out.println("eccoci!!");
 
 	}
+	
+	public void ciao() {
+		
+	}
+	
+	
 }
