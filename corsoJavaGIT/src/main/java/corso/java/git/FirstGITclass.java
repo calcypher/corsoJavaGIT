@@ -18,4 +18,8 @@ public class FirstGITclass {
 		
 	}
 	
+	public void method3() {
+		
+	}
+	
 }
