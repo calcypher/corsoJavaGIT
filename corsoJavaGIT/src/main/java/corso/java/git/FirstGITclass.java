@@ -14,5 +14,8 @@ public class FirstGITclass {
 		
 	}
 	
+	public void method2() {
+		
+	}
 	
 }
