@@ -55,8 +55,33 @@ public class FirstGITclass {
 
 	            if(!flag) break; //Se flag=false allora vuol dire che nell' ultima iterazione
 	                             //non ci sono stati scambi, quindi il metodo può terminare
-	                             //poiché l' array risulta ordinato
+	        
+	            
+	            
+	            class Fibonacci {
+	            	  public static void main(String[] args) {
+	            	    int penultimo, ultimo, nuovo;
+	            	    int limite=10000;
+
+	            	    penultimo=1;
+	            	    ultimo=1;
+
+	            	    System.out.println(penultimo);
+
+	            	    while( ultimo < limite ) {
+	            	      System.out.println(ultimo);
+
+	            	      nuovo=penultimo+ultimo;
+	            	      penultimo=ultimo;
+	            	      ultimo=nuovo;
+	            	    }
+	            	  }
+	            	}//poiché l' array risulta ordinato
 	        }
+	        
+	        
 	    }
+	  
+	  
 
 }
