@@ -4,12 +4,12 @@ public class FirstGITclass {
 
 	public void firstMethod() {
 
-		System.out.println("Test secondo commi");
+		System.out.println("Test secondo commit");
 
 
 		System.out.println("eccoci!!");
 		
-		System.out.println("Git test");
+		System.out.println("Branching around");
 
 		System.out.println("sono sempre Pietro");
 		
