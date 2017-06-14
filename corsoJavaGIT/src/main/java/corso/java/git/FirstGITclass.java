@@ -4,11 +4,10 @@ public class FirstGITclass {
 
 	public void firstMethod() {
 
-		System.out.println("La mia prima modifica");
+		System.out.println("Test secondo commi");
 
-		System.out.println("ah, sono Pietro");
-		System.out.println("ah, sono Pietro");
-		System.out.println("ah, sono Pietro");
+		System.out.println("sono sempre Pietro");
+		
 
 	}
 	
