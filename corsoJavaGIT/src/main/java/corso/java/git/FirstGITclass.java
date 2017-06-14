@@ -83,5 +83,8 @@ public class FirstGITclass {
       	      ultimo=nuovo;
       	    }
       	  } 
-
+      public void STOH() {
+      System.out.println("gang gang  scuuuuuh");
+      }
+      
 }
