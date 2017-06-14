@@ -15,7 +15,8 @@ public class FirstGITclass {
 		
 	}
 	
-	public void method2() {
+	public void suus() {
+		System.out.println("eclipse fa caha");
 		
 	}
 	
@@ -28,7 +29,7 @@ public class FirstGITclass {
 		int x=0;
 		for (int i=0;i<a.length;i++){
 			if (a[i]>x)
-				x=a[i];				
+				x=a[i];		//i massoni lo fascevano meglio sta function che restituisce il valore maggiore del vettore		
 	}
 		return x;
 	
