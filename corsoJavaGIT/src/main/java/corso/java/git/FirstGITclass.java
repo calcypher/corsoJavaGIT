@@ -4,11 +4,15 @@ public class FirstGITclass {
 
 	public void firstMethod() {
 
-		System.out.println("OVERRIDE COMMIT!!! FOREVER");
+		System.out.println("Test secondo commi");
+
 
 		System.out.println("eccoci!!");
 		
 		System.out.println("Git test");
+
+		System.out.println("sono sempre Pietro");
+		
 
 	}
 	
